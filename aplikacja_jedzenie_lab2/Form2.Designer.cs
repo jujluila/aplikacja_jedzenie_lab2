@@ -73,10 +73,10 @@
             radioButton4.AutoSize = true;
             radioButton4.Location = new Point(12, 102);
             radioButton4.Name = "radioButton4";
-            radioButton4.Size = new Size(124, 24);
+            radioButton4.Size = new Size(185, 24);
             radioButton4.TabIndex = 3;
             radioButton4.TabStop = true;
-            radioButton4.Text = "Za pobraniem";
+            radioButton4.Text = "Gotówka przy odbiorze";
             radioButton4.UseVisualStyleBackColor = true;
             // 
             // button1
@@ -85,7 +85,7 @@
             button1.Name = "button1";
             button1.Size = new Size(138, 46);
             button1.TabIndex = 4;
-            button1.Text = "ZAPŁAĆ";
+            button1.Text = "Akceptuj";
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
             // 
